@@ -1,0 +1,1 @@
+https://www.phpmyadminonline.com/index.php?route=/table/structure&db=sql12753008&table=books
